@@ -16,7 +16,7 @@ This project generates a simple metadata health report and displays it as an HTM
 ## ▶️ How to Run
 1. Install Python
 2. Run the script:
-   python app.py
+   prototype.py
 3. Open generated `report.html` in browser
 
 ## 📂 Output
